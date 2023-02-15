@@ -1,0 +1,8 @@
+Que es una base de datos relacional:
+Una base de datos es una fuente de almacenamiento de datos organizados en tablas y relacionadas.
+
+Que es DML:
+es un forma de que permite llevar a cabo consultas o modificacion a la base de datos.
+
+Que es DDL:
+El DDL es un scrip ejemplo select.
